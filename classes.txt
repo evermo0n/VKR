@@ -1,0 +1,6 @@
+Low cost
+Below average cost
+Average cost
+Above average cost
+High cost
+Very high cost
